@@ -31,7 +31,7 @@
 - **PowerPoint**: For presentation.
 - **Canvas**: For slides.
 
-## Additional Sections
+## Dashboard Reports:
 
 ### Home Page:
 ![Home Page](https://github.com/Harshith-VC/IPL-2024-Magazine-/assets/158494053/74371420-332b-44be-b6f0-6393e9abb3e0)
