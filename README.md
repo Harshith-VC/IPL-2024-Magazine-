@@ -2,7 +2,6 @@
 
 **Sports Basics**, a new entrant in the sports blog space, aims to boost its website traffic by releasing a special edition magazine on IPL 2024. To provide engaging insights and facts, they have turned to data analytics. Chief Editor Tony Sharma has entrusted Peter Pandey, a data-savvy cricket enthusiast, with this task.
 
-![Data Analysis](images/data_analysis.png)
 
 ## Analysis and Insights
 
@@ -40,3 +39,31 @@
 
 ## Additional Sections
 
+### Home Page:
+![Home Page](https://github.com/Harshith-VC/IPL-2024-Magazine-/assets/158494053/74371420-332b-44be-b6f0-6393e9abb3e0)
+
+### Batsman Stats:
+![Batsman](https://github.com/Harshith-VC/IPL-2024-Magazine-/assets/158494053/7cf0aa4c-199d-4800-957b-f8aaa0e61b7c)
+
+### Bowler Stats:
+![Bowler](https://github.com/Harshith-VC/IPL-2024-Magazine-/assets/158494053/a6375be0-f34c-4661-b3a9-b4fe14f4256e)
+
+### Primary Insights:
+![Primary Insight](https://github.com/Harshith-VC/IPL-2024-Magazine-/assets/158494053/6b7a6d19-a579-494b-abba-570bb67d743a)
+
+### Orange Cap and Puprple Cap Holder Prediction:
+![Predictions](https://github.com/Harshith-VC/IPL-2024-Magazine-/assets/158494053/98018166-506e-470d-bc2b-01895b72c426)
+
+### Top 3 All Rounders:
+![Top 3 Allrounders](https://github.com/Harshith-VC/IPL-2024-Magazine-/assets/158494053/d925ad53-6da4-4524-8048-e96d06bea0be)
+
+### My 11 Prediction:
+![MY 11](https://github.com/Harshith-VC/IPL-2024-Magazine-/assets/158494053/a133a653-f0be-45ae-955e-94ca318c2fc8)
+
+
+**You can find the full report PDF file here :[Report](https://github.com/Harshith-VC/IPL-2024-Magazine-/blob/main/IPL%20Insights%202024%20Git.pdf)**
+
+
+
+### 🎯Project Outcome
+**This project aims to provide valuable insights and predictions for IPL enthusiasts, analysts, and teams.**
