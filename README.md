@@ -1,7 +1,8 @@
 ## Project Overview
 
 **Sports Basics**, a new entrant in the sports blog space, aims to boost its website traffic by releasing a special edition magazine on IPL 2024. To provide engaging insights and facts, they have turned to data analytics. Chief Editor Tony Sharma has entrusted Peter Pandey, a data-savvy cricket enthusiast, with this task.
-
+- [📊 Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTRjOWFiZjQtMzI4Ny00NzdlLWI2NjUtMjgyNmY1YWRlMzAyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+- [💼 LinkedIn Post](https://www.linkedin.com/posts/harshithvc_powerbi-dataanalytics-codebasicsresumeprojectchallenge-activity-7185541682073874432-5Q-y?utm_source=share&utm_medium=member_desktop)
 
 ## Analysis and Insights
 
@@ -29,11 +30,6 @@
 - **Power BI**: For dashboard creation.
 - **PowerPoint**: For presentation.
 - **Canvas**: For slides.
-
-## Links:
-- [📊 Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTRjOWFiZjQtMzI4Ny00NzdlLWI2NjUtMjgyNmY1YWRlMzAyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
-- [💼 LinkedIn Post](https://www.linkedin.com/posts/harshithvc_powerbi-dataanalytics-codebasicsresumeprojectchallenge-activity-7185541682073874432-5Q-y?utm_source=share&utm_medium=member_desktop)
-
 
 ## Additional Sections
 
