@@ -25,8 +25,6 @@
 4. 🏅 **Selection of the Best 11 Players** based on positions, 3 years' performance data, and additional research.
 5. 🏅 **Selection of the Top 3 All-Rounders** for your team.
 
-![Analysis Tools](images/tools.png)
-
 ## Tools Used:
 - **Power BI**: For dashboard creation.
 - **PowerPoint**: For presentation.
